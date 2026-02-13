@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+    font-size: 100%;
+}
+nav{
+    height: 5rem;
+    background-color: blue;
+    display: flex;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: red; */
+    width: 100%;
+    align-items: center;
+    font-weight: bold
+}
+ul li{
+    padding: ;
+}
